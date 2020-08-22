@@ -4,7 +4,7 @@
 by Erik Horus  
   
 # Hướng dẫn cài đặt thư viện Python Mod sử dụng cho Minecraft 
-
+![](https://i.imgur.com/VIu30eY.png)
   
 ## I. Cài đặt Tlauncher.  
   ### 1. Cài đặt
