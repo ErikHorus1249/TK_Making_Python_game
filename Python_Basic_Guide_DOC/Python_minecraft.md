@@ -1,10 +1,10 @@
 
 
+
 by Erik Horus  
   
-# Hướng dẫn cài đặt thư viện sử dụng Python Mod cho Minecraft 
-  
-  
+# Hướng dẫn cài đặt thư viện Python Mod sử dụng cho Minecraft 
+
   
 ## I. Cài đặt Tlauncher.  
   ### 1. Cài đặt
@@ -19,11 +19,11 @@ Sau đó chọn **Download TL**
 
 
 **Bước 2**: Cài đặt file Tlauncher.exe vừa tải về .  
-  - Chọn **Continue** 
-  - 
+  - Chọn **Continue** .
+  
 ![](https://i.imgur.com/74H12gv.png)  
   
-- Tiếp tục chọn **accept . . .** và tiếp tục **Continue**
+- Tiếp tục chọn **accept . . .** và **Continue**
   
 ![](https://i.imgur.com/Nurxt1K.png)  
   
@@ -37,7 +37,7 @@ Sau đó chọn **Download TL**
 
 ![](https://i.imgur.com/cOv3jRN.png)
 
-- Việc cài đặt và sử dụng Tlauncher thành công.
+- Việc cài đặt và sử dụng Tlauncher thành công chuyển sang bước tiếp theo.
 
 ## II. Cài đặt RaspberryJam và thư viện MCPIPY.  
   ### 1. Cài đặt Raspberry-Jam-Mod.
@@ -52,7 +52,7 @@ Sau đó chọn **Download TL**
   
   ![](https://i.imgur.com/ebg9DdT.png)
 
-- Sau khi giải nén ta thu được **Thư mục MCPIPY** và **file cài đặt của Raspberry-Jam-mod.**
+- Sau khi giải nén ta thu được **Thư mục MCPIPY** và file cài đặt của **Raspberry-Jam-mod.**
 
 ![](https://i.imgur.com/GF35TNn.png)
   
@@ -75,4 +75,24 @@ Sau đó chọn **Download TL**
 ![](https://i.imgur.com/w2mBWnu.png)
   
   ### 2. Thêm thư viện MCPIPY hỗ trợ python Minecraft .
+- Để thêm thư viện Python cho Minecraft thì Copy thư mục **mcpipy** đã giải nén trước đó và paste tại thư mục **.minecraft**.
+- Các bước thực hiện như sau :
 
+![](https://i.imgur.com/Z4YqyvN.png)
+
+![](https://i.imgur.com/78qeSFA.png)
+
+![](https://i.imgur.com/qzEgdOd.png)
+
+![](https://i.imgur.com/X2VjDYz.png)
+
+![](https://i.imgur.com/o4AV1E6.png)
+
+![](https://i.imgur.com/UguxFJp.png)
+
+![](https://i.imgur.com/G3cQfBJ.png)
+
+- Việc cài đặt hoàn tất sau đó hãy khởi động lại Tlauncher và kiểm tra xem đã sửa dụng được Python trong Minecraft hay chưa.
+
+### Reference:
+- [**Source Force**](https://sourceforge.net/projects/python-with-minecraft-windows/)
