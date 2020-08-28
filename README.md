@@ -9,4 +9,5 @@ by Erik Horus
 |---|---|
 |  Tài liệu hướng dẫn cài Python và Pycharm |  [**tại đây ->>**](/Python_Basic_Guide_DOC/CoBan.md) |
 |  Tài liệu hướng dẫn cài Python cho Minecraft |  [**tại đây ->>**](/Python_Basic_Guide_DOC/Python_minecraft.md) |
+|  Code mẫu |  [**tại đây ->>**](/SourceCode/) |
 |   |   |
