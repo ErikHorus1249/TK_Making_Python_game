@@ -1,3 +1,0 @@
-hi you 
-normal
-high
