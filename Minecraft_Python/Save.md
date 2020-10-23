@@ -7,6 +7,6 @@
 
 Thư mục Saves sẽ nằm trong thư mục /.minecraft mà thầy đã hướng dẫn truy cập vào rất nhiều lần.
 
-### Chú ý : chọn phiên bản forge 1.12  trở lên để mở thế giới
+### Chú ý : chọn phiên bản forge 1.12  trở lên để mở thế giới.
 
 
