@@ -80,7 +80,7 @@ while mode != "missioncompleted":
             alienTarget.y += HOVER_HEIGHT
         
     if alienPos != alienTarget:
-
+ # thay doi vi tri cua alien 
         blockBtw = mcdrawing.getLine(alienPos.x, alienPos.y, alienPos.z, alienTarget.x, alienTarget.y, alienTarget.z)
 
         for blockBetween in blockBtw:
