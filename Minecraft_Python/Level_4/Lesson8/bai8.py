@@ -82,7 +82,7 @@ while mode != "missioncompleted":
     if alienPos != alienTarget:
  # thay doi vi tri cua alien 
         blockBtw = mcdrawing.getLine(alienPos.x, alienPos.y, alienPos.z, alienTarget.x, alienTarget.y, alienTarget.z)
-
+# vong lap lay toa do theo doi ngouoi choi
         for blockBetween in blockBtw:
             
             alienShape.move(blockBetween.x, blockBetween.y, blockBetween.z)
