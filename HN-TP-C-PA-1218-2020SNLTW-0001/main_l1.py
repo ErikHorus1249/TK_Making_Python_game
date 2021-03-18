@@ -1,16 +1,19 @@
 # import module
 import pygame 
 
-
+# using method init()
 pygame.init()
 
-
+# using set_mode to set Width and Height for the screen
 window = pygame.display.set_mode((600,300))
 
+# set color fill for the screen
 window.fill((182,249,230))
 
+# Set name for the screen
 pygame.display.set_caption("the first lesson")
 
+# set icon display
 icon = pygame.image.load("./img/icon.png")
 bg = pygame.image.load("./img/bg.jpg")
 menu = pygame.image.load("./img/menu.png")
