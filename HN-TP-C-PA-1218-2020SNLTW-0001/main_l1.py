@@ -5,28 +5,24 @@ import pygame
 pygame.init()
 
 # using set_mode to set Width and Height for the screen
+# 3:4
 window = pygame.display.set_mode((600,300))
 
-# set color fill for the screen
-window.fill((182,249,230))
+# load anh trong game
+gamepad_icon = pygame.image.load("icon.png")
+# load background
+bg = pygame.image.load("bg.jpg")
+bg = pygame.transform.scale(bg,(600,300))
 
-# Set name for the screen
-pygame.display.set_caption("the first lesson")
+pygame.display.set_icon(gamepad_icon)
+pygame.display.set_caption("Game for idiots")
 
-# set icon display
-icon = pygame.image.load("./img/icon.png")
-bg = pygame.image.load("./img/bg.jpg")
-menu = pygame.image.load("./img/menu.png")
-menu = pygame.transform.scale(menu,(200,150))
-
-
-window.blit(bg,(0,0))
-window.blit(menu,(200,90))
-pygame.display.set_icon(icon)
-
+# bien trang thai cua game game status
 active = True
 
 
+window.blit(bg,(0,0))
+# event : su kien nhan vat di chuyen - thao tac  
 while active :
     for event in pygame.event.get():
         if event.type == pygame.QUIT:
